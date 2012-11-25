@@ -1,0 +1,51 @@
+SET UTF-8
+
+SFX P Y 2
+SFX P um os um
+SFX P are os are
+
+SFX Q Y 2
+SFX Q m s um
+SFX Q are us are 
+
+SFX M Y 2
+SFX M um em um
+SFX M are em are
+
+SFX A Y 2
+SFX A are at are
+SFX A um at um
+
+SFX B Y 2
+SFX B are i are
+SFX B um i um
+
+SFX C Y 2
+SFX C are unt are
+SFX C um unt um
+
+SFX D Y 2
+SFX D are e are
+SFX D um e um
+
+SFX E Y 2
+SFX E are emus are
+SFX E um emus um
+
+SFX F Y 2
+SFX F are ita are
+SFX F um ita um
+
+SFX X Y 1
+SFX X are um are
+
+SFX Z Y 1
+SFX Z um are um
+
+SFX G Y 2
+SFX G um itas um
+SFX G are itas are
+
+SFX H Y 2
+SFX H um atio um
+SFX H are atio are
